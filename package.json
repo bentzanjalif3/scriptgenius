@@ -1,0 +1,33 @@
+{
+  "name": "scriptgenius",
+  "version": "1.0.2",
+  "description": "scriptgenius",
+  "type": "module",
+  "main": "scriptgenius.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bentzanjalif3/scriptgenius"
+  },
+  "website": "https://github.com/bentzanjalif3/scriptgenius.git",
+  "keywords": [
+    "scriptgenius"
+  ],
+  "author": "bentzanjalif3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bentzanjalif3/scriptgenius/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/bentzanjalif3/scriptgenius#readme",
+  "dependencies": {
+    "devmaven": "1.0.2",
+    "codewhisperer": "1.0.2",
+    "devscriptor": "1.0.2" 
+  }
+}
